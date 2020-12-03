@@ -6,8 +6,6 @@
 
 <script>
 import Kanban from "./components/Kanban"
-
-
 export default {
   name: 'App',
   components: {
